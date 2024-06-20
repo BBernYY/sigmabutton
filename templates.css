@@ -9,6 +9,7 @@ p {
 h1 {
         color: var(--color);
         font-family: var(--fonttype);
+        font-size: xxx-large;
 }
 .button {
     background-color: var(--buttoncolor);

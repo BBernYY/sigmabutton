@@ -9,3 +9,15 @@ html {
     --fontsize: 15px;
     
 }
+svg:hover #g1 {
+    transform: translateY(2%);
+}
+svg:active #g1 {
+    transform: translateY(14%);
+}
+svg #g1{
+    transition: 0.45s;
+}
+body {
+    text-align: center;
+}
